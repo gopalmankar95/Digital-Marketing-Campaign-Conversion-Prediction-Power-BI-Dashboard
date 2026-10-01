@@ -4,24 +4,24 @@ This Project present an interactive Power BI dashboard developed to analyze and 
 The dashboard provides insights into campaign effectiveness, customer engagement, conversion performance and ROI
 
 ## Objectives
-Analyze digital marketing campaign performance
-Track conversion and engagement
-compare different campaign type
-Analyze marketing channel performance
-Monitor ROI acquisiton cost
-Identify important business insights
-Create an interactive and user-friendly dashboard
+Analyze digital marketing campaign performance,
+Track conversion and engagement,
+compare different campaign type,
+Analyze marketing channel performance,
+Monitor ROI acquisiton cost,
+Identify important business insights,
+Create an interactive and user-friendly dashboard.
 
 ## Tools & Technology
-Microsoft Power BI 
-Power Query
-Dax 
-Data visualization
-Data Cleaning & Transformation
+Microsoft Power BI,
+Power Query,
+Dax, 
+Data visualization,
+Data Cleaning & Transformation,
 
 ## Dashboard Features
 ### KPI Metrics
-Total Campaigns
+Total Campaigns,
 Total Conversion 
 Conversion Rate 
 Average ROI
